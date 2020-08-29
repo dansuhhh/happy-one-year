@@ -26,6 +26,12 @@ svg {
   margin: 0 3rem;
 }
 
+.gif {
+  width: 60px;
+  transform: rotate(-90deg);
+  margin: 0;
+}
+
 .arrow {
   padding: 5px;
   cursor: pointer;
